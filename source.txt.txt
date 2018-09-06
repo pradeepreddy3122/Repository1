@@ -1,2 +1,3 @@
 get add
+change amythiong
 get init
